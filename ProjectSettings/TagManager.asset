@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BlueBottomBarrier
+  - BlueTopBarrier
+  - BlueTopRightBarrier
+  - BlueBottomRightBarrier
+  - RedTopBarrier
+  - RedBottomBarrier
+  - RedTopLeftBarrier
+  - RedBottomLeftBarrier
+  - Goal2
+  - Goal1
+  - Comp
+  - Puck
+  - Goalbox1
+  - Goalbox2
+  - scoreManager
+  - DoublePoints
+  - teleporter
+  - teleporter2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - COM
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
